@@ -1,0 +1,5 @@
+train: /home/zhang/zengjunqi/parkinglot_occupancy/parkinglot_dataset/2022_11_19/train/images
+val: /home/zhang/zengjunqi/parkinglot_occupancy/parkinglot_dataset/2022_11_19/valid/images
+
+nc: 2
+names: ['space-occupied','space-empty']
