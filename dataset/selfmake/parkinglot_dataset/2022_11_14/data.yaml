@@ -1,5 +1,0 @@
-train: /home/zhang/zengjunqi/videos/parkinglot_dataset/train/images
-val: /home/zhang/zengjunqi/videos/parkinglot_dataset/valid/images
-
-nc: 2
-names: ['space-occupied','space-empty']
